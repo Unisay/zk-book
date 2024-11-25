@@ -344,7 +344,7 @@ R_4 &= a_8G_7\\
 \end{align*}$$
 
 Graphically, that can be seen as follows:
-\begin{array}{c|c|}
+$$\begin{array}{c|c|}
 &a_1 & a_2 & a_3 & a_4 & a_5 & a_6 & a_7 & a_8\\
 \hline
 G_1&&R_1\\
